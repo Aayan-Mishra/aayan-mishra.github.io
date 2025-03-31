@@ -1,7 +1,7 @@
 ---
 title: 'Advancements in Realistic Image Generation'
 date: 2025-03-31
-permalink: /posts/2025/03/advancements-in-realistic-image-generation.md/
+permalink: /posts/2025/03/advancements-in-realistic-image-generation/
 tags:
   - OdysseyXL
   - Diffusion
