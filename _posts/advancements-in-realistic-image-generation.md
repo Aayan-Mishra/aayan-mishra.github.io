@@ -12,3 +12,7 @@ tags:
 
 # Advancements in Realistic Image Generation in OdysseyXL
 ![Image Grid](https://raw.githubusercontent.com/Aayan-Mishra/Images/refs/heads/main/4.0-Grid.png)
+
+## 1) Intro into diffusion models
+
+We all know about AI models that can generate images. These models generate these images through a technique known as **Diffusion**.
