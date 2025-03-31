@@ -2,15 +2,15 @@
   "basics": {
     "name": "Aayan Mishra",
     "email": "aayanmishra954@gmail.com",
-    "phone": "",
+    "phone": "+1-234-567-8901",
     "website": "https://aayan-mishra.github.io",
-    "summary": "Hey there! I'm Aayan and I work on building AI projects, from finetuning models like OdysseyXL to developing advanced systems like Kyro and Mimir. Whether its deep learning, experimenting with model optimization, or creating something entirely new, I'm always exploring the next big idea. When I'm not coding or training models, you'll probably find me watching Formula 1, , or refining my STEM.",
+    "summary": "Hey there! I'm Aayan, and I work on building AI projects, from fine-tuning models like OdysseyXL to developing advanced systems like Kyro and Mimir. Whether it’s deep learning, experimenting with model optimization, or creating something entirely new, I'm always exploring the next big idea. When I'm not coding or training models, you'll probably find me watching Formula 1, studying quantum computing, or refining my STEM skills.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Sydney",
-      "countryCode": "US",
-      "region": "Western"
+      "countryCode": "AU",
+      "region": "New South Wales"
     },
     "profiles": [
       {
@@ -20,8 +20,8 @@
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0000-0001-2345-6789",
+        "url": "http://orcid.org/0000-0001-2345-6789"
       },
       {
         "network": "GitHub",
@@ -30,12 +30,72 @@
       }
     ]
   },
-  "work": [],
-  "education": [],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "work": [
+    {
+      "company": "Open-Neo AI Lab",
+      "position": "Founder & Lead AI Researcher",
+      "website": "https://open-neo.vercel.app/",
+      "startDate": "2025-01",
+      "summary": "Leading research and development at Open-Neo AI Lab, focusing on innovative AI models and solutions. Responsible for model creation, fine-tuning, and pushing boundaries in open-source AI.",
+      "highlights": [
+        "Developed the Kyro series for advanced reasoning.",
+        "Created OdysseyXL models for hyper-realistic image generation.",
+        "Launched AuroraTTS for expressive speech synthesis.",
+        "Fostered a collaborative AI community with open-source projects."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "High School",
+      "area": "Advanced STEM, AI, and Quantum Computing",
+      "studyType": "HSC (Higher School Certificate)",
+      "startDate": "2022-01",
+      "endDate": "2025-12",
+      "score": "97+ ATAR (Projected)",
+      "courses": ["Mathematics Extension 1 & 2", "Physics", "Computer Science", "Quantum Computing", "AI & ML"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Machine Learning & AI",
+      "level": "Expert",
+      "keywords": ["Deep Learning", "Model Fine-tuning", "Optimization", "Open-Source AI"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Python", "C++", "JavaScript", "JAX", "Flax"]
+    },
+    {
+      "name": "AI Frameworks & Tools",
+      "level": "Advanced",
+      "keywords": ["PyTorch", "TensorFlow", "Hugging Face", "Diffusers", "Unsloth"]
+    },
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Artificial Intelligence"
+    },
+    {
+      "name": "Quantum Computing"
+    },
+    {
+      "name": "Formula 1"
+    },
+    {
+      "name": "STEM Exploration"
+    }
+  ],
+  "references": [
+
+  ],
   "publications": [],
   "presentations": [],
   "teaching": [],
@@ -45,7 +105,7 @@
       "category": "portfolio",
       "date": "January 2025 - Present",
       "url": "https://open-neo.vercel.app/",
-      "description": "Open-Neo began as a small personal project fueled by curiosity and a passion for Al. Over time, it has evolved into a public research lab dedicated to pushing the boundaries of innovation. With a focus on creating cutting-edge models and solutions, Open-Neo empowers individuals, fostering collaboration, learning, and breakthroughs in Al and machine learning.<br/><img src='/images/500x300.png'>"
+      "description": "Open-Neo began as a small personal project fueled by curiosity and a passion for AI. Over time, it has evolved into a public research lab dedicated to pushing the boundaries of innovation. With a focus on creating cutting-edge models and solutions, Open-Neo empowers individuals, fostering collaboration, learning, and breakthroughs in AI and machine learning.<br/><img src='/images/500x300.png'>"
     }
   ]
 }
