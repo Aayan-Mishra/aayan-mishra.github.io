@@ -10,5 +10,5 @@ tags:
   - Open-Neo
 ---
 
-# Advancements in Realistic Image Generation
-![Image Grid](/_files/odysseyxl-grid.png)
+# Advancements in Realistic Image Generation: OdysseyXL-Origin
+![Image Grid](https://raw.githubusercontent.com/Aayan-Mishra/Images/refs/heads/main/4.0-Grid.png)
