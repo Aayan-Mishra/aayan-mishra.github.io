@@ -46,15 +46,6 @@
     }
   ],
   "education": [
-    {
-      "institution": "High School",
-      "area": "Advanced STEM, AI, and Quantum Computing",
-      "studyType": "HSC (Higher School Certificate)",
-      "startDate": "2022-01",
-      "endDate": "2025-12",
-      "score": "97+ ATAR (Projected)",
-      "courses": ["Mathematics Extension 1 & 2", "Physics", "Computer Science", "Quantum Computing", "AI & ML"]
-    }
   ],
   "skills": [
     {
