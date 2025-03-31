@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Aayan Mishra / Academic Portfolio"
+title                    : "Aayan Mishra"
 title_separator          : "-"
 name                     : &name "Aayan Mishra"
 description              : &description "Hey there! I'm Aayan and I work on building AI projects, from finetuning models like OdysseyXL to developing advanced systems like Kyro and Mimir. Whether its deep learning, experimenting with model optimization, or creating something entirely new, I'm always exploring the next big idea. When I'm not coding or training models, you'll probably find me watching Formula 1, , or refining my STEM."
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Aayan Mishra"
   pronouns         : "he/him"  
-  bio              : "Hey there! I'm Aayan and I work on building AI projects, from finetuning models like OdysseyXL to developing advanced systems like Kyro and Mimir. Whether its deep learning, experimenting with model optimization, or creating something entirely new, I'm always exploring the next big idea. When I'm not coding or training models, you'll probably find me watching Formula 1, , or refining my STEM."
+  bio              : "I'm Aayan, an AI developer focused on building innovative AI projects, from fine-tuning models like OdysseyXL to developing advanced systems like Kyro and Mimir. When I'm not working on AI, I enjoy watching Formula 1 and diving deeper into STEM."
   location         : "Sydney, Australia"
   employer         : "SAS Education"
   uri              : "https://aayan-mishra.github.com"
