@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 Hey, I'm **Aayan**—an AI enthusiast who loves working on machine learning, model optimization, and exploring new ideas. I’m always experimenting with projects, from fine-tuning models like **OdysseyXL** for ultra-realism to building advanced AI systems like **Kyro** and **Open-Neo**.  
 
